@@ -47,5 +47,3 @@ Im Moment ist es das einzige kostenlose Tool zum Ändern von Skins im CS2-Spiel.
 
 > [!IMPORTANT]
 > Das Menü wird durch Drücken von INSERT oder FN+INS geöffnet.
-
-Übersetzt mit DeepL.com (kostenlose Version)
